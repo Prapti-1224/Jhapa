@@ -39,7 +39,7 @@ body {
 }
 
 .hero-section {
-    background-image: url('https://whatthenepal.com/wp-content/uploads/2023/05/salabri-850x638-1.jpg'); /* Replace with actual Jhapa image */
+    background-image: url('https://whatthenepal.com/wp-content/uploads/2023/05/salabri-850x638-1.jpg'); 
     height: 60vh;
     background-size: cover;
     background-position: center;
